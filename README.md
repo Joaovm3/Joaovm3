@@ -1,4 +1,4 @@
-### Olá, me chamo 👋
+### Olá 👋
 
 - 🔭 Atualmente estou trabalhando com Codeigniter 4, Jquery e NodeJS 
 - 🌱 Estudando Javascript, PHP, Python e Java
