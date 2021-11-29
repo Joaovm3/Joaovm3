@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- 👨‍💼 Atualmente estou trabalhando com Codeigniter 4, Jquery, NodeJS e PostgreSQL 
+- 👨‍💼 Atualmente estou trabalhando com React, React Native, NodeJS e Oracle 
 - 🌱 Estudando Javascript, PHP, Python e Java
 
  <div>
