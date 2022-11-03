@@ -1,7 +1,7 @@
 ### Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
 
-- 👨‍💼 Atualmente estou trabalhando com React, React Native, NodeJS e Oracle 
-- 🌱 Estudando Javascript, PHP, Python e Java
+- 👨‍💼 Atualmente estou trabalhando com Azure, React, React Native, NodeJS, MongoDB e Angular
+- 🌱 Estudando Javascript, Python, Java e C
 
  <div>
   <a href="https://github.com/Joaovm3">
